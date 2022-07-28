@@ -15,3 +15,7 @@
 <h3>회원 서비스</h3>
 1. 중복회원 검증과 전체 회원 조회를 위한 MemberService 클래스 작성 <br>
 2. 중복회원이 있을 시 알림
+
+<h3>회원 서비스 테스트</h3>
+1. 회원가입 중복 테스트를 위한 MemberServiceTest 클래스 작성
+2. DIR(Dependency Injection)
