@@ -2,7 +2,7 @@
 인프런 강의(https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%EC%9E%85%EB%AC%B8-%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8)
 
 <H3>MVC, 템플릿 엔진과 API </H3>
-1. HelloController 생성
+1. HelloController 생성 <\n>
 2. MVC와 API를 이용한 컨트롤러(프로젝트 내에서 사용x)
 
 <h3>회원 도메인과 리포지토리 </h3>
