@@ -1,10 +1,11 @@
 package hello.hellospring.repository;
 
 import hello.hellospring.domain.Member;
+import org.springframework.stereotype.Repository;
 
 import java.util.*;
 
-
+@Repository
 public class MemoryMemberRepository implements MemberRepository
 {
     //svae 하기 위한 Map 생성
