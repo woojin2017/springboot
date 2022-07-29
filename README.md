@@ -18,4 +18,7 @@
 
 <h3>회원 서비스 테스트</h3>
 1. 회원가입 중복 테스트를 위한 MemberServiceTest 클래스 작성
-2. DIR(Dependency Injection)
+
+<h3>컴포넌트 스캔과 자동 의존관계</h3>
+1. memberController 클레스 작성 <br>
+2. memberController, memberService, memberRepository 클래스 연결
