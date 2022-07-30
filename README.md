@@ -24,5 +24,5 @@
 2. memberController, memberService, memberRepository 클래스 연결
 
 <h3>자바 코드로 직접 스프링 빈 </h3>
-1. 자바 빈 등록하는 SpringConfig 클래스 작성
+1. 자바 빈 등록하는 SpringConfig 클래스 작성 <
 2. @Service, @Repository 미사용
