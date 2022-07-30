@@ -22,3 +22,5 @@
 <h3>컴포넌트 스캔과 자동 의존관계</h3>
 1. memberController 클레스 작성 <br>
 2. memberController, memberService, memberRepository 클래스 연결
+
+<h3>자바 코드로 직접 스프링 빈 </h3>
