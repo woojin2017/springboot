@@ -26,3 +26,7 @@
 <h3>자바 코드로 직접 스프링 빈 </h3>
 1. 자바 빈 등록하는 SpringConfig 클래스 작성 <br>
 2. @Service, @Repository 미사용
+
+<h3>회원 웹 기능</h3>
+<h5>홈 화면 추가</h5>
+1. hoem HTML, HomeController 클래스 추가 (http://localhost:8080으로 이동하였을 때 첫 화면)
