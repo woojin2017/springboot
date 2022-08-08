@@ -30,3 +30,6 @@
 <h3>회원 웹 기능</h3>
 <h5>홈 화면 추가</h5>
 1. hoem HTML, HomeController 클래스 추가 (http://localhost:8080으로 이동하였을 때 첫 화면)
+
+<h5>등록</h3>
+1.MemberForm 클래스, creatememberForm HTML 추가
