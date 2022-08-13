@@ -33,3 +33,6 @@
 
 <h5>등록</h3>
 1.MemberForm 클래스, creatememberForm HTML 추가
+
+<h5>조회</h5>
+1. memberList HTML 추가
