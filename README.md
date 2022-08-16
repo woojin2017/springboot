@@ -36,3 +36,10 @@
 
 <h5>조회</h5>
 1. memberList HTML 추가
+
+<h3>H2 데이터베이스 설치</h3>
+1. H2 데이터베이스 설치 (H2 : 개발이나 테스트 용도로 가볍고 편리한 DB, 웹 화면 제공)
+2.데이터 정의하는 ddl.sql 추가
+
+<h3>순수 JDBC</h3>
+1. JdbcMemberRepository 클래스 작성
