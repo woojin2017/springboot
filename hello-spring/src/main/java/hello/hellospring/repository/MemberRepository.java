@@ -6,6 +6,7 @@ import java.util.List;
 import java.util.Optional;
 
 
+// 회원 저장하기 위한 인터페이스
 public interface MemberRepository {
     //저장소에 회원 저장
     Member save(Member member);
