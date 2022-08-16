@@ -45,5 +45,5 @@
 1. JdbcMemberRepository 클래스 작성
 
 <h3>스프링 통합 테스트</h3>
-1. MemberServiceIntegrationTest 테스트 케이스 작성
+1. MemberServiceIntegrationTest 테스트 케이스 작성 <br>
 2. @Transactional 이용
