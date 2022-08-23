@@ -29,17 +29,17 @@
 
 <h3>회원 웹 기능</h3>
 <h5>홈 화면 추가</h5>
-1. hoem HTML, HomeController 클래스 추가 (http://localhost:8080으로 이동하였을 때 첫 화면)
+1. hoem HTML, HomeController 클래스 작성 (http://localhost:8080으로 이동하였을 때 첫 화면)
 
 <h5>등록</h3>
-1.MemberForm 클래스, creatememberForm HTML 추가
+1.MemberForm 클래스, creatememberForm HTML 작성
 
 <h5>조회</h5>
 1. memberList HTML 추가
 
 <h3>H2 데이터베이스 설치</h3>
 1. H2 데이터베이스 설치 (H2 : 개발이나 테스트 용도로 가볍고 편리한 DB, 웹 화면 제공)
-2.데이터 정의하는 ddl.sql 추가
+2.데이터 정의하는 ddl.sql 작성
 
 <h3>순수 JDBC</h3>
 1. JdbcMemberRepository 클래스 작성
@@ -47,3 +47,6 @@
 <h3>스프링 통합 테스트</h3>
 1. MemberServiceIntegrationTest 테스트 케이스 작성 <br>
 2. @Transactional 이용
+
+<h3>스프링 JdbcTemplate </h3>
+1.JdncTemplatememberRepository 클래스 작성
