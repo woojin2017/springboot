@@ -50,3 +50,6 @@
 
 <h3>스프링 JdbcTemplate </h3>
 1.JdncTemplatememberRepository 클래스 작성
+
+<h3>JPA</h3>
+1. JpaMemberReopsitory 클래스 
