@@ -53,3 +53,6 @@
 
 <h3>JPA</h3>
 1. JpaMemberReopsitory 클래스 
+
+<h3>스프링 데이터 JPA</h3>
+1. springDataJpaMemberRepository 인터페이스 작성
